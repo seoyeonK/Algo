@@ -26,4 +26,4 @@ for i in anagrams.keys():
 tmp.sort(key = lambda x : (max_len - len(x), x[0])) # 크기순 정렬 후 사전순
 
 for i in range(min(len(tmp),5)):
-    print(f'Group of size {len(tmp[i])} : { " ".join ([elem for elem in sorted(list(set(tmp[i])))])}  ')
+    print(f'Group of size {len(tmp[i])}: { " ".join ([elem for elem in sorted(list(set(tmp[i])))])} .')
