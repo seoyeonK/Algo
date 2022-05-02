@@ -1,2 +1,2 @@
-# BOJ
-for studying Algorithm (BaekJoon Online Judge)
+# Algorithm
+for studying Algorithm (BaekJoon Online Judge, Programmers, HackerRank)
