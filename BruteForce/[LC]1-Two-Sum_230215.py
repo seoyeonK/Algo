@@ -40,3 +40,18 @@ class Solution:
                 return [nums_dict[find_val],i]
             else:
                 nums_dict[nums[i]]=i
+
+
+# one-pass Hash   (https://www.youtube.com/watch?v=KLlXCFG5TnA)
+
+class Solution : 
+    def twoSum (self, nums: List[int], target : int) -> List[int] :
+        prevMap = {}    # val : index
+        
+        for i, n in enumerate(nums):
+            diff = target - n
+            if diff in prevMap :
+                return [prevMap[diff], i]
+            prevMap[n] = i
+        return
+
