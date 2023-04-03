@@ -62,3 +62,4 @@ for _ in range(T):
         for i in range(1, M+1):
             if i >= coin :
                 dp[i] += dp[i-coin]
+    print(dp[M])
