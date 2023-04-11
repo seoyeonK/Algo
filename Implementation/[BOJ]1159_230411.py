@@ -15,3 +15,7 @@ if answer == '':
     print("PREDAJA")
 
 print(answer)
+
+
+
+# 
