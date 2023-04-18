@@ -31,3 +31,24 @@ def findLIS(nums):
             if nums[i] > nums[j]:
                 rst[i] = max(rst[i], rst[j]+1)
     return max(rst)
+
+def binarySearch(arr, start, end, target):
+    if start <= end :
+        mid = start + (end-start)//2
+        if target == arr[mid]:
+            return mid
+        elif target > arr[mid]:
+            return binarySearch(arr, (mid+1), end, target)
+        else:
+            return binarySearch(arr, start, (mid-1), target)
+    return -1
+
+
+def countPais(nums,k):
+    num = sorted(list(set(nums)))
+    count = 0
+    for i in range(0, len(num)):
+        target = num[i] + k
+        if binarySearch(nums,0,len(nums)-1,target) != -1:
+            count +=1
+    return count
