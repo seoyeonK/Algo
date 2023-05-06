@@ -4,11 +4,11 @@
 230503~ ✅
 | 제목 | 1회 | 2회 | 3회 | 4회 | 5회 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| [나머지](https://www.acmicpc.net/problem/10430) | | | |
-| [팩토리얼](https://www.acmicpc.net/problem/10872) | | | |
-| [아스키 코드](https://www.acmicpc.net/problem/11654) | | | |
-| [알파벳 개수](https://www.acmicpc.net/problem/10808) | | | |
-| [숫자의 합](https://www.acmicpc.net/problem/11720) | | | |
+| [나머지](https://www.acmicpc.net/problem/10430) |✅ | | |
+| [팩토리얼](https://www.acmicpc.net/problem/10872) |✅ | | |
+| [아스키 코드](https://www.acmicpc.net/problem/11654) |✅ | | |
+| [알파벳 개수](https://www.acmicpc.net/problem/10808) |✅ | | |
+| [숫자의 합](https://www.acmicpc.net/problem/11720) |✅ | | |
 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | | | |
 | [공](https://www.acmicpc.net/problem/1547) | | | |
 | [지능형 기차 2](https://www.acmicpc.net/problem/2460) | | | |
