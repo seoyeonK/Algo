@@ -4,11 +4,11 @@
 230503~ ✅
 | 제목 | 1회 | 2회 | 3회 | 4회 | 5회 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| [나머지](https://www.acmicpc.net/problem/10430) | | | |
-| [팩토리얼](https://www.acmicpc.net/problem/10872) | | | |
-| [아스키 코드](https://www.acmicpc.net/problem/11654) | | | |
-| [알파벳 개수](https://www.acmicpc.net/problem/10808) | | | |
-| [숫자의 합](https://www.acmicpc.net/problem/11720) | | | |
+| [나머지](https://www.acmicpc.net/problem/10430) |✅ | | |
+| [팩토리얼](https://www.acmicpc.net/problem/10872) |✅ | | |
+| [아스키 코드](https://www.acmicpc.net/problem/11654) |✅ | | |
+| [알파벳 개수](https://www.acmicpc.net/problem/10808) |✅ | | |
+| [숫자의 합](https://www.acmicpc.net/problem/11720) |✅ | | |
 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | | | |
 | [공](https://www.acmicpc.net/problem/1547) | | | |
 | [지능형 기차 2](https://www.acmicpc.net/problem/2460) | | | |
@@ -47,7 +47,7 @@
 | [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) | | | |
 | [셀프 넘버](https://www.acmicpc.net/problem/4673) | | | |
 | [파스칼의 삼각형](https://www.acmicpc.net/problem/16395) | | | |
-| [보물](https://www.acmicpc.net/problem/1026) | | | |
+| [보물](https://www.acmicpc.net/problem/1026) |✅ | | |
 | [한수](https://www.acmicpc.net/problem/1065) | | | |
 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | | | |
 | [설탕 배달](https://www.acmicpc.net/problem/2839) | | | |
@@ -69,7 +69,7 @@
 | [N과 M(1)](https://www.acmicpc.net/problem/15649) | | | |
 | [N과 M(2)](https://www.acmicpc.net/problem/15650) | | | |
 | [부분수열의 합](https://www.acmicpc.net/problem/1182) | | | |
-| [DFS와 BFS](https://www.acmicpc.net/problem/1269) | | | |
+| [DFS와 BFS](https://www.acmicpc.net/problem/1260) |✅ | | |
 | [촌수계산](https://www.acmicpc.net/problem/2644) | | | |
 | [로또](https://www.acmicpc.net/problem/6603) | | | |
 | [이동하기](https://www.acmicpc.net/problem/11048) | | | |
