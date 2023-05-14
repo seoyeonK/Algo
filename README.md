@@ -13,8 +13,8 @@
 | [공](https://www.acmicpc.net/problem/1547) |✅ | | |
 | [지능형 기차 2](https://www.acmicpc.net/problem/2460) |✅ | | |
 | [약수 구하기](https://www.acmicpc.net/problem/2501) |✅ | | |
-| [네 번째 점](https://www.acmicpc.net/problem/3009) | | | |
-| [택시 기하학](https://www.acmicpc.net/problem/3053) | | | |
+| [네 번째 점](https://www.acmicpc.net/problem/3009) |✅ | | |
+| [택시 기하학](https://www.acmicpc.net/problem/3053) |✅ | | |
 | [이진수](https://www.acmicpc.net/problem/3460) | | | |
 | [직각삼각형](https://www.acmicpc.net/problem/4153) | | | |
 | [최소, 최대](https://www.acmicpc.net/problem/10818) | | | |
