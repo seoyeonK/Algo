@@ -9,10 +9,10 @@
 | [아스키 코드](https://www.acmicpc.net/problem/11654) |✅ | | |
 | [알파벳 개수](https://www.acmicpc.net/problem/10808) |✅ | | |
 | [숫자의 합](https://www.acmicpc.net/problem/11720) |✅ | | |
-| [빠른 A+B](https://www.acmicpc.net/problem/15552) | | | |
-| [공](https://www.acmicpc.net/problem/1547) | | | |
-| [지능형 기차 2](https://www.acmicpc.net/problem/2460) | | | |
-| [약수 구하기](https://www.acmicpc.net/problem/2501) | | | |
+| [빠른 A+B](https://www.acmicpc.net/problem/15552) |✅ | | |
+| [공](https://www.acmicpc.net/problem/1547) |✅ | | |
+| [지능형 기차 2](https://www.acmicpc.net/problem/2460) |✅ | | |
+| [약수 구하기](https://www.acmicpc.net/problem/2501) |✅ | | |
 | [네 번째 점](https://www.acmicpc.net/problem/3009) | | | |
 | [택시 기하학](https://www.acmicpc.net/problem/3053) | | | |
 | [이진수](https://www.acmicpc.net/problem/3460) | | | |
