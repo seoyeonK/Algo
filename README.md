@@ -17,9 +17,9 @@
 | [택시 기하학](https://www.acmicpc.net/problem/3053) |✅ | | |
 | [이진수](https://www.acmicpc.net/problem/3460) |✅ | | |
 | [직각삼각형](https://www.acmicpc.net/problem/4153) |✅ | | |
-| [최소, 최대](https://www.acmicpc.net/problem/10818) | | | |
-| [농구 경기](https://www.acmicpc.net/problem/1159) | | | |
-| [손익분기점](https://www.acmicpc.net/problem/1712) | | | |
+| [최소, 최대](https://www.acmicpc.net/problem/10818) |✅| | |
+| [농구 경기](https://www.acmicpc.net/problem/1159) |✅ | | |
+| [손익분기점](https://www.acmicpc.net/problem/1712) |✅ | | |
 | [소수찾기](https://www.acmicpc.net/problem/1978) | | | |
 | [분해합](https://www.acmicpc.net/problem/2231) | | | |
 | [벌집](https://www.acmicpc.net/problem/2292) | | | |
