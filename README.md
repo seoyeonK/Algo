@@ -25,8 +25,8 @@
 | [소수찾기](https://www.acmicpc.net/problem/1978) |✅ | | |
 | [분해합](https://www.acmicpc.net/problem/2231) |✅ | | |
 | [벌집](https://www.acmicpc.net/problem/2292) |✅ | | |
-| [소수](https://www.acmicpc.net/problem/2581) | | | |
-| [문자열 반복](https://www.acmicpc.net/problem/2675) | | | |
+| [소수](https://www.acmicpc.net/problem/2581) |✅ | | |
+| [문자열 반복](https://www.acmicpc.net/problem/2675) |✅ | | |
 | [피보나치 수](https://www.acmicpc.net/problem/2747) | | | |
 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | | | |
 | [블랙잭](https://www.acmicpc.net/problem/2798) | | | |
