@@ -27,7 +27,7 @@
 | [벌집](https://www.acmicpc.net/problem/2292) |✅ | | |
 | [소수](https://www.acmicpc.net/problem/2581) |✅ | | |
 | [문자열 반복](https://www.acmicpc.net/problem/2675) |✅ | | |
-| [피보나치 수](https://www.acmicpc.net/problem/2747) | | | |
+| [피보나치 수](https://www.acmicpc.net/problem/2747) |✅ | | |
 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | | | |
 | [블랙잭](https://www.acmicpc.net/problem/2798) | | | |
 | [트럭 주차](https://www.acmicpc.net/problem/2979) | | | |
@@ -62,7 +62,7 @@
 | [1로 만들기](https://www.acmicpc.net/problem/1463) | | | |
 | [소수 구하기](https://www.acmicpc.net/problem/1929) | | | |
 | [프린터 큐](https://www.acmicpc.net/problem/1966) | | | |
-| [수열](https://www.acmicpc.net/problem/2559) | | | |
+| [수열](https://www.acmicpc.net/problem/2559) |✅ | | |
 | [바이러스](https://www.acmicpc.net/problem/2606) | | | |
 | [NBA 농구](https://www.acmicpc.net/problem/2852) | | | |
 | [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) | | | |
