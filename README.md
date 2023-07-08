@@ -28,8 +28,8 @@
 | [소수](https://www.acmicpc.net/problem/2581) |✅ | | |
 | [문자열 반복](https://www.acmicpc.net/problem/2675) |✅ | | |
 | [피보나치 수](https://www.acmicpc.net/problem/2747) |✅ | | |
-| [수 정렬하기](https://www.acmicpc.net/problem/2750) | | | |
-| [블랙잭](https://www.acmicpc.net/problem/2798) | | | |
+| [수 정렬하기](https://www.acmicpc.net/problem/2750) |✅ | | |
+| [블랙잭](https://www.acmicpc.net/problem/2798) |✅ | | |
 | [트럭 주차](https://www.acmicpc.net/problem/2979) | | | |
 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | | | |
 | [피보나치 수 5](https://www.acmicpc.net/problem/10870) | | | |
