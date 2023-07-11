@@ -32,7 +32,7 @@
 | [블랙잭](https://www.acmicpc.net/problem/2798) |✅ | | |
 | [트럭 주차](https://www.acmicpc.net/problem/2979) | ✅| | |
 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) |✅ | | |
-| [피보나치 수 5](https://www.acmicpc.net/problem/10870) | | | |
+| [피보나치 수 5](https://www.acmicpc.net/problem/10870) |✅ | | |
 | [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) | | | |
 | [시험 감독](https://www.acmicpc.net/problem/13458) | | | |
 | [정수 N개의 합](https://www.acmicpc.net/problem/15596) | | | |
@@ -76,7 +76,7 @@
 | [로또](https://www.acmicpc.net/problem/6603) | | | |
 | [이동하기](https://www.acmicpc.net/problem/11048) | | | |
 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | | | |
-| [스타트와 링크](https://www.acmicpc.net/problem/14889) | | | |
+| [스타트와 링크](https://www.acmicpc.net/problem/14889) |✅ | | |
 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | | | |
 | [회의실 배정](https://www.acmicpc.net/problem/1931) | | | |
 | [미로 탐색](https://www.acmicpc.net/problem/2178) | | | |
