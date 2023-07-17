@@ -137,7 +137,7 @@
 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | | | |
 | [회의실 배정](https://www.acmicpc.net/problem/1931) | | | |
 | [미로 탐색](https://www.acmicpc.net/problem/2178) | | | |
-| [안전 영역](https://www.acmicpc.net/problem/2468) | | | |
+| [안전 영역](https://www.acmicpc.net/problem/2468) |✅ | | |
 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | | | |
 | [스타트링크](https://www.acmicpc.net/problem/5014) | | | |
 | [애너그램 그룹](https://www.acmicpc.net/problem/6566) | | | |
