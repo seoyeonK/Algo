@@ -94,7 +94,7 @@
 | [시험 감독](https://www.acmicpc.net/problem/13458) | ✅| | |
 | [정수 N개의 합](https://www.acmicpc.net/problem/15596) |✅ | | |
 | [단어 공부](https://www.acmicpc.net/problem/1157) |✅ | | |
-| [최소공배수](https://www.acmicpc.net/problem/1934) | | | |
+| [최소공배수](https://www.acmicpc.net/problem/1934) |✅ | | |
 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | | | |
 | [부녀회장이 될테야](https://www.acmicpc.net/problem/2775) | | | |
 | [이항 계수 1](https://www.acmicpc.net/problem/11050) | | | |
@@ -139,8 +139,8 @@
 | [미로 탐색](https://www.acmicpc.net/problem/2178) | | | |
 | [안전 영역](https://www.acmicpc.net/problem/2468) |✅ | | |
 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) |✅ | | |
-| [스타트링크](https://www.acmicpc.net/problem/5014) | | | |
-| [애너그램 그룹](https://www.acmicpc.net/problem/6566) | | | |
+| [스타트링크](https://www.acmicpc.net/problem/5014) |✅ | | |
+| [애너그램 그룹](https://www.acmicpc.net/problem/6566) |✅ | | |
 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | | | |
 | [오르막 수](https://www.acmicpc.net/problem/11057) | | | |
 | [암호 만들기](https://www.acmicpc.net/problem/1759) | | | |
