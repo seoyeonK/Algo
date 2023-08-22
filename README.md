@@ -96,7 +96,7 @@
 | [단어 공부](https://www.acmicpc.net/problem/1157) |✅ | | |
 | [최소공배수](https://www.acmicpc.net/problem/1934) |✅ | | |
 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |✅ | | |
-| [부녀회장이 될테야](https://www.acmicpc.net/problem/2775) | | | |
+| [부녀회장이 될테야](https://www.acmicpc.net/problem/2775) |✅ | | |
 | [이항 계수 1](https://www.acmicpc.net/problem/11050) | | | |
 | [ROT13](https://www.acmicpc.net/problem/11655) | | | |
 | [분수찾기](https://www.acmicpc.net/problem/1193) | | | |
@@ -124,7 +124,7 @@
 | [NBA 농구](https://www.acmicpc.net/problem/2852) | | | |
 | [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) | | | |
 | [2xn 타일링 2](https://www.acmicpc.net/problem/11727) | | | |
-| [퇴사](https://www.acmicpc.net/problem/14501) | | | |
+| [퇴사](https://www.acmicpc.net/problem/14501) |✅ | | |
 | [N과 M(1)](https://www.acmicpc.net/problem/15649) | | | |
 | [N과 M(2)](https://www.acmicpc.net/problem/15650) | | | |
 | [부분수열의 합](https://www.acmicpc.net/problem/1182) | | | |
