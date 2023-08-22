@@ -18,7 +18,7 @@
 | 14503 | 	[로봇 청소기]( https://www.acmicpc.net/problem/14503  )  | 	53.74% |   |   |   |
 | 23290 | 	[마법사 상어와 복제]( https://www.acmicpc.net/problem/23290  )  | 	50.80% |   |   |   |
 | 21610 | 	[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610   )  | 	49.88% |   |   |   |
-| 14501 | 	[퇴사]( https://www.acmicpc.net/problem/14501  )  | 	49.67% |   |   |   |
+| 14501 | 	[퇴사]( https://www.acmicpc.net/problem/14501  )  | 	49.67% |✅   |   |   |
 | 14888 | 	[연산자 끼워넣기]( https://www.acmicpc.net/problem/17837  )  | 	47.80% |   |   |   |
 | 17837 | 	[새로운 게임 2](https://www.acmicpc.net/problem/17837   )  | 	47.03% |   |   |   |
 | 14889 | 	[스타트와 링크]( https://www.acmicpc.net/problem/14889  )  | 	46.15% |   |   |   |
