@@ -98,7 +98,7 @@
 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |✅ | | |
 | [부녀회장이 될테야](https://www.acmicpc.net/problem/2775) |✅ | | |
 | [이항 계수 1](https://www.acmicpc.net/problem/11050) |✅ | | |
-| [ROT13](https://www.acmicpc.net/problem/11655) | | | |
+| [ROT13](https://www.acmicpc.net/problem/11655) |✅ | | |
 | [분수찾기](https://www.acmicpc.net/problem/1193) | | | |
 | [소트인사이드](https://www.acmicpc.net/problem/1427) | | | |
 | [종이자르기](https://www.acmicpc.net/problem/2628) |✅ | | |
