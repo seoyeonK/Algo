@@ -99,7 +99,7 @@
 | [부녀회장이 될테야](https://www.acmicpc.net/problem/2775) |✅ | | |
 | [이항 계수 1](https://www.acmicpc.net/problem/11050) |✅ | | |
 | [ROT13](https://www.acmicpc.net/problem/11655) |✅ | | |
-| [분수찾기](https://www.acmicpc.net/problem/1193) | | | |
+| [분수찾기](https://www.acmicpc.net/problem/1193) |✅| | |
 | [소트인사이드](https://www.acmicpc.net/problem/1427) | | | |
 | [종이자르기](https://www.acmicpc.net/problem/2628) |✅ | | |
 | [사과 담기 게임](https://www.acmicpc.net/problem/2828) | | | |
