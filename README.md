@@ -102,7 +102,7 @@
 | [분수찾기](https://www.acmicpc.net/problem/1193) |✅| | |
 | [소트인사이드](https://www.acmicpc.net/problem/1427) | | | |
 | [종이자르기](https://www.acmicpc.net/problem/2628) |✅ | | |
-| [사과 담기 게임](https://www.acmicpc.net/problem/2828) | | | |
+| [사과 담기 게임](https://www.acmicpc.net/problem/2828) |✅ | | |
 | [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) | | | |
 | [셀프 넘버](https://www.acmicpc.net/problem/4673) | | | |
 | [파스칼의 삼각형](https://www.acmicpc.net/problem/16395) | | | |
