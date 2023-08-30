@@ -146,7 +146,7 @@
 | [암호 만들기](https://www.acmicpc.net/problem/1759) | | | |
 | [합분해](https://www.acmicpc.net/problem/2225) | | | |
 | [전깃줄](https://www.acmicpc.net/problem/2565) | | | |
-| [토마토](https://www.acmicpc.net/problem/7569) | | | |
+| [토마토](https://www.acmicpc.net/problem/7569) |✅ | | |
 | [동전](https://www.acmicpc.net/problem/9084) | | | |
 | [빙산](https://www.acmicpc.net/problem/2573) | | | |
 | [N-Queen](https://www.acmicpc.net/problem/9663) | | | |
