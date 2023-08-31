@@ -129,7 +129,7 @@
 | [N과 M(2)](https://www.acmicpc.net/problem/15650) | | | |
 | [부분수열의 합](https://www.acmicpc.net/problem/1182) | | | |
 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) |✅ | | |
-| [촌수계산](https://www.acmicpc.net/problem/2644) | | | |
+| [촌수계산](https://www.acmicpc.net/problem/2644) |✅ | | |
 | [로또](https://www.acmicpc.net/problem/6603) | | | |
 | [이동하기](https://www.acmicpc.net/problem/11048) | | | |
 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | | | |
