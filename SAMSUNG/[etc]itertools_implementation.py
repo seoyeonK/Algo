@@ -36,7 +36,8 @@ def combinations(arr, r):
             for next in combinations(arr[i+1:], r-1):
                 yield [arr[i]] + next
        
-       
+
+print(list(combinations(test1, 2)))
        
         
 
