@@ -19,7 +19,7 @@
 | 23290 | 	[마법사 상어와 복제]( https://www.acmicpc.net/problem/23290  )  | 	50.80% |   |   |   |
 | 21610 | 	[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610   )  | 	49.88% |   |   |   |
 | 14501 | 	[퇴사]( https://www.acmicpc.net/problem/14501  )  | 	49.67% |✅   |   |   |
-| 14888 | 	[연산자 끼워넣기]( https://www.acmicpc.net/problem/17837  )  | 	47.80% |   |   |   |
+| 14888 | 	[연산자 끼워넣기]( https://www.acmicpc.net/problem/17837  )  | 	47.80% | ✅  |   |   |
 | 17837 | 	[새로운 게임 2](https://www.acmicpc.net/problem/17837   )  | 	47.03% |   |   |   |
 | 14889 | 	[스타트와 링크]( https://www.acmicpc.net/problem/14889  )  | 	46.15% |   |   |   |
 | 15686 | 	[치킨 배달]( https://www.acmicpc.net/problem/15686  )  | 	45.64% |   |   |   |
@@ -40,7 +40,7 @@
 | 21609 | 	[상어 중학교](https://www.acmicpc.net/problem/21609   )  | 	35.25% |   |   |   |
 | 20061 | 	[모노미노도미노 2](https://www.acmicpc.net/problem/20061   )  | 	34.62% |   |   |   |
 | 17822 | 	[원판 돌리기](https://www.acmicpc.net/problem/17822   )  | 	33.32% |   |   |   |
-| 13458 | 	[시험 감독](https://www.acmicpc.net/problem/13458   )  | 	28.72% |   |   |   |
+| 13458 | 	[시험 감독](https://www.acmicpc.net/problem/13458   )  | 	28.72% |✅ |   |   |
 | 13460 | 	[구슬 탈출 2](https://www.acmicpc.net/problem/13460   )  | 	27.61% |   |   |   |
 | 17143 | 	[낚시왕](https://www.acmicpc.net/problem/17143   )  | 	26.56% |   |   |   |
 | 12100 | 	[2048 (Easy)](https://www.acmicpc.net/problem/12100   )  | 	26.20% |   |   |   |
