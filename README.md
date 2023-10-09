@@ -13,7 +13,7 @@
 | 23291 | 	[어항 정리](https://www.acmicpc.net/problem/23291   )  | 	55.86% |   |   |   |
 | 15685 | 	[드래곤 커브]( https://www.acmicpc.net/problem/15685  )  | 	54.98% |   |   |   |
 | 14502 | 	[연구소]( https://www.acmicpc.net/problem/14502  )  | 	54.79% |   |   |   |
-| 14891 | 	[톱니바퀴]( https://www.acmicpc.net/problem/14891  )  | 	54.58% |   |   |   |
+| 14891 | 	[톱니바퀴]( https://www.acmicpc.net/problem/14891  )  | 	54.58% | ✅  |   |   |
 | 17144 | 	[미세먼지 안녕!]( https://www.acmicpc.net/problem/17144  )  | 	54.23% |   |   |   |
 | 14503 | 	[로봇 청소기]( https://www.acmicpc.net/problem/14503  )  | 	53.74% |   |   |   |
 | 23290 | 	[마법사 상어와 복제]( https://www.acmicpc.net/problem/23290  )  | 	50.80% |   |   |   |
